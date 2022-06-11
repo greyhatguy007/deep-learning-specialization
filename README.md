@@ -51,7 +51,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 - [<b> Week 2</b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week2)
     - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week2/lectures)
-    - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week2/lectures)
+    - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week2/pogramming%20assignments/W2A1)
 
 <br/>
 
