@@ -26,7 +26,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 - [<b> Week 3 </b> ](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week3/)
 
     - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week3/lectures)
-    - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week3/lectures)
+    - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week3/W3A1)
 
 <br/>
 
