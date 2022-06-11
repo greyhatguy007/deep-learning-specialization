@@ -38,7 +38,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
-## Course 2 : [C2-Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
+## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
 - [<b> Week 1</b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week1)
 
@@ -61,3 +61,13 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+## Course 3 : [Structuring Machine Learning Projects](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects)
+
+- [<b> Week 1 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week1)
+- [<b> Week 2 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week2)
+
+<hr/>
+
+<br/>
+
+###### Credits : Respective Sources
