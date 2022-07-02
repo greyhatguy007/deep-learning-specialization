@@ -94,8 +94,10 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week3/C4W3A1)
   - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week3/C4w3A2)
 
+<br/>
+
 - [<b>Week 4</b>](/C4-Convolutional%20Neural%20Networks/week4/)
-
-
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week3/lectures/)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer)
 
 ###### Credits : Respective Sources
