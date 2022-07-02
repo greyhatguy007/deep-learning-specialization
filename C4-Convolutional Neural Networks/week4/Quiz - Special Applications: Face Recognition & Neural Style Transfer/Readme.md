@@ -1,0 +1,5 @@
+![](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer/ss1.png)
+![](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer/ss2.png)
+![](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer/ss1.png)
+![](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer/ss4.png)
+![](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer/ss5.png)
