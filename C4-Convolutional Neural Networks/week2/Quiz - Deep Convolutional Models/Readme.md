@@ -1,0 +1,5 @@
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models/ss1.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models/ss2.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models/ss3.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models/ss4.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models/ss5.png)
