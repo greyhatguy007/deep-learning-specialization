@@ -92,7 +92,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Lectures](/C4-Convolutional%20Neural%20Networks/week3/lectures/)
   - [Quiz](/C4-Convolutional%20Neural%20Networks/week3/Quiz%20-%20Detection%20Algorithms%20/)
   - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week3/C4W3A1)
-  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week3/C4W3A2)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week3/C4w3A2)
 
 - [<b>Week 4</b>](/C4-Convolutional%20Neural%20Networks/week4/)
 
