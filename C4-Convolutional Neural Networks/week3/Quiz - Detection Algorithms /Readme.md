@@ -1,0 +1,7 @@
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss1.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss2.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss3.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss4.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss5.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss6.png)
+![](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Detection%20Algorithms/ss7.png)
