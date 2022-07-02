@@ -7,3 +7,19 @@
     - [Quiz](/C4-Convolutional%20Neural%20Networks/week1/Quiz%20-%20The%20Basics%20of%20ConvNets%20/)
     - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week1/W1A1/)
     - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week1/W1A2/)
+
+<br/>
+
+- [<b>Week 2</b>](/C4-Convolutional%20Neural%20Networks/week2/)
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week2/lectures)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models)
+  - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week2/W2A1/)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week2/W2A2/)
+  
+<br/>  
+
+- [<b>Week 3</b>](/C4-Convolutional%20Neural%20Networks/week3/)
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week3/lectures/)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week3/Quiz%20-%20Detection%20Algorithms%20/)
+  - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week3/C4W3A1)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week3/C4W3A2)

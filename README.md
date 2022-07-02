@@ -65,8 +65,6 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 - [<b> Week 1 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week1)
 
-</br>
-
 - [<b> Week 2 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week2)
 
 <hr/>
@@ -75,12 +73,29 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 ## Course 4 : [Convolutional Neural Networks](/C4-Convolutional%20Neural%20Networks/)
 
 - [<b>Week 1</b>](/C4-Convolutional%20Neural%20Networks/week1/)
-    - [Lectures](/C4-Convolutional%20Neural%20Networks/week1/lectures/)
-    - [Quiz](/C4-Convolutional%20Neural%20Networks/week1/Quiz%20-%20The%20Basics%20of%20ConvNets%20/)
-    - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week1/W1A1/)
-    - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week1/W1A2/)
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week1/lectures/)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week1/Quiz%20-%20The%20Basics%20of%20ConvNets%20/)
+  - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week1/W1A1/)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week1/W1A2/)
+
+<br/>
+
+- [<b>Week 2</b>](/C4-Convolutional%20Neural%20Networks/week2/)
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week2/lectures)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20Convolutional%20Models)
+  - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week2/W2A1/)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week2/W2A2/)
+  
+<br/>  
+
+- [<b>Week 3</b>](/C4-Convolutional%20Neural%20Networks/week3/)
+  - [Lectures](/C4-Convolutional%20Neural%20Networks/week3/lectures/)
+  - [Quiz](/C4-Convolutional%20Neural%20Networks/week3/Quiz%20-%20Detection%20Algorithms%20/)
+  - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week3/C4W3A1)
+  - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week3/C4W3A2)
+
+- [<b>Week 4</b>](/C4-Convolutional%20Neural%20Networks/week4/)
 
 
-</br>
 
 ###### Credits : Respective Sources
