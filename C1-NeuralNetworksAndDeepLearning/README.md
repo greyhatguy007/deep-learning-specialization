@@ -27,3 +27,5 @@
     - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/lectures)
     - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/W4A1)
     - [Assignment 2](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/W4A2)
+
+[Certificate Of Completion](https://coursera.org/share/4caf3ba6bf59e2fa26d469aa147a8a0c)

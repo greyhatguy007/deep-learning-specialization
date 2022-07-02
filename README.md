@@ -36,6 +36,8 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
     - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/W4A1)
     - [Assignment 2](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/W4A2)
 
+
+[Certificate Of Completion](https://coursera.org/share/4caf3ba6bf59e2fa26d469aa147a8a0c)
 <hr/>
 
 ## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
@@ -59,6 +61,8 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
     - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week3/lectures)
     - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week3/programming%20assignments/W3A1)
 
+[Certificate Of Completion](https://coursera.org/share/613fdc81246090f08c019158a91cfe06)
+
 <hr/>
 
 ## Course 3 : [Structuring Machine Learning Projects](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects)
@@ -66,6 +70,8 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 - [<b> Week 1 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week1)
 
 - [<b> Week 2 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week2)
+
+[Certificate Of Completion](https://coursera.org/share/b411ec8b0970d0fed78456a4c3accfbd)
 
 <hr/>
 
@@ -101,5 +107,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Quiz](/C4-Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20Applications:%20Face%20Recognition%20&%20Neural%20Style%20Transfer)
   - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week4/C4W4A1/)
   - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week4/C4W4A2/)
+
+[Certificate Of Completion](https://coursera.org/share/4116ca69a9b3037a7d2f8d748e8eca08)
 
 ###### Credits : Respective Sources
