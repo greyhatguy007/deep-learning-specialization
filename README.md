@@ -110,4 +110,30 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 [Certificate Of Completion](https://coursera.org/share/4116ca69a9b3037a7d2f8d748e8eca08)
 
+<hr/>
+
+## Course 5 : [Sequence Models](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models)
+
+- [<b>Week 1</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week1)
+  - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week1/notes)
+  - [Quiz](/C5-sequence-models/week1/q1-RNN)
+  - [Assignment 1](C5-sequence-models/week1/C5W1A1)
+  - [Assignment 2](C5-sequence-models/week1/C5W1A2)
+  - [Assignment 3](C5-sequence-models/week1/C5W1A3)
+  
+<br/>
+
+- [<b>Week 2</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week2)
+  - [Lectures](C5-sequence-models/week2/notes)
+  - [Quiz](C5-sequence-models/week2/q1-nlp-and-word-embeddings)
+  - [Assignment 1](C5-sequence-models/week2/C5W2A1)
+  - [Assignment 2](C5-sequence-models/week2/C5W2A2)
+<br/>
+
+- [<b>Week 3</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week3)
+
+<br/>
+
+- [<b>Week 4</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week4)
+
 ###### Credits : Respective Sources
