@@ -1,0 +1,6 @@
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss1.png)
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss2.png)
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss3.png)
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss4.png)
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss5.png)
+![](https://github.com/greyhatguy007/deep-learning-specialization/blob/f68cdf69218a3c16af7b177d0fde8460a8b2e506/C5-sequence-models/week1/q1-RNN/ss6.png)
