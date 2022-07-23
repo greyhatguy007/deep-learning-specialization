@@ -131,9 +131,17 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 <br/>
 
 - [<b>Week 3</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week3)
-
+  - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week3/notes)
+  - [Assignment ](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week3/C5W3A1)
 <br/>
 
 - [<b>Week 4</b>](https://github.com/greyhatguy007/deep-learning-specialization/blob/d7a48b1e106541b69183f2fc15ca99fa24153237/C5-sequence-models/week4)
+  - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week4/notes)
+  - [Assignment](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week4/C5W4A1)
 
+[Certificate of Completion](https://coursera.org/share/e91e1f6306e92fcf4bd4bba4adcdba4e)
+
+
+
+### [Specialization Certificate](https://coursera.org/share/246725a1fc73a1de593281f6f2de65b5)
 ###### Credits : Respective Sources
